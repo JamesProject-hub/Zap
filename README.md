@@ -1,1 +1,1 @@
-# Zap---to-scan-authenicated-pages
+# Scan authenicated pages
